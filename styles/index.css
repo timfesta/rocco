@@ -1,0 +1,27 @@
+.jumbotron {
+	margin-bottom: 0px;
+	background-color: #5b6571;
+	padding-bottom: 0px;
+}
+
+.page-header {
+	padding-bottom: 0px;
+	border-bottom: 0px;
+	color: #fff;
+	text-align: center;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+h2 {
+	font-weight: 400;
+	line-height: 1.2em;
+	margin-bottom: 13px;
+	text-transform: none;
+}
+
+.intro {
+	font-size: 18px;
+}
